@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75329ad44fbde0a41b40958dacdbd43e, type: 3}
+  m_Name: Bakery
+  m_EditorClassIdentifier: 
+  Recipe: {fileID: 11400000, guid: ff061857b5872654aa380eb028122b11, type: 2}
+  Stages:
+  - StageComponents:
+    - {fileID: 11400000, guid: 0577638ddac123a438cddea00d6e1bf8, type: 2}
+  - StageComponents:
+    - {fileID: 11400000, guid: 09311169a0b904c4fbd5d414c334b7e5, type: 2}
+  - StageComponents:
+    - {fileID: 11400000, guid: d3ecd32692ea4b94aa252ecb1e2f5682, type: 2}
+  - StageComponents:
+    - {fileID: 11400000, guid: e8e728ceb8f76bb4798da1dd2a2206c9, type: 2}

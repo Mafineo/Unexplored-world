@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1367857225
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1353990885
+    locked: 0
+  - name: LowerBlock
+    uniqueID: 3531893765
+    locked: 0
+  - name: Building
+    uniqueID: 3527855655
+    locked: 0
+  - name: Creature
+    uniqueID: 2882530935
+    locked: 0
+  - name: Prepare
+    uniqueID: 1784103501
+    locked: 0
+  - name: UpperBlock
+    uniqueID: 4260011089
+    locked: 0
+  - name: Weather
+    uniqueID: 396953605
+    locked: 0
+  - name: Effect
+    uniqueID: 54023749
+    locked: 0
+  - name: Hud
+    uniqueID: 4079922711
+    locked: 0
